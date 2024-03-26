@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'lato', sans-serif;
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+.container{
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+    height: 200px;
+    width: 356px;
+    font-size: 30px;
+    margin-left: 37%;
+    margin-top: 10px;
+}
+.num{
+   margin-top: 60px;
+   padding: 20px;
+  
+}
+.btn button{
+    background-color: red;
+    color: white;
+    border: none;
+    outline: none;
+    height: 30px;
+    width: 80px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+.btn button:hover{
+    border: 1px solid white;
+    background-color: red;
+    color: white;
+}
